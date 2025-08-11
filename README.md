@@ -56,7 +56,7 @@ A smart attendance solution using:
 ## 📫 Let's Connect!
 
 📧 Email: tarsariajanmesh@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/janmesh-tarsaria-58b261250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/janmesh-tarsaria-58b261250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 
 ---
